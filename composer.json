@@ -4,7 +4,7 @@
 	"description":"Web services plugin for elgg",
 	"license" : "MIT",
 	"require": {
-		"composer/installers": "~"
+		"composer/installers": "*"
 	},
     "extra": {
         "installer-name": "web_services"
