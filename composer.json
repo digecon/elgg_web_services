@@ -1,0 +1,11 @@
+{
+	"name"	   :"digecon/elgg_web_services",
+	"type"	   :"elgg-plugin",
+	"description":"Web services plugin for elgg",
+	"license" : "MIT",
+	"require": {
+	},
+    "extra": {
+        "installer-name": "web_services"
+    }	
+}

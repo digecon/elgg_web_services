@@ -1,3 +1,5 @@
+Original code: [github.com/Tachyon/Elgg-Web-Services](https://github.com/Tachyon/Elgg-Web-Services)
+
 Elgg Web Services
 =================
 
